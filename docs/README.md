@@ -1,6 +1,6 @@
 # Documents
 
-[home](../) | [lessons](../lessons/README.md) | [projects](../projects/README.md) | [docs](README.md) | [setup](../setup/README.md)
+[home](../README.md) | [lessons](../lessons/README.md) | [projects](../projects/README.md) | [docs](README.md) | [setup](../setup/README.md)
 
 Available documents:
 
