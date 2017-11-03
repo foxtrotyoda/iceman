@@ -4,5 +4,5 @@
 
 Available documents:
 
- * [JSON Basics #1](JSON_1.md) 2 Nov 2017
+ * [JSON Basics #1](JSON_1.md) (2017-11-02)
  
